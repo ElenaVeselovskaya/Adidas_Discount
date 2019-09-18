@@ -4,7 +4,7 @@ public class Main {
         int fivePercentDiscount = 5;
         int tenPercentDiscount = 10;
         int twentyPercentDiscount = 20;
-        int totalAmountOfPurchasesInRub = 10000;
+        int totalAmountOfPurchasesInRub = 20000;
         int currentSumOfPurchaseInRub = 10000;
         int hundredPercent = 100;
 
